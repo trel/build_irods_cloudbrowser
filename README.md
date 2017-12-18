@@ -2,7 +2,7 @@
 
 Build the .war in a docker container
 ```
-docker build -t build_cb:latest Dockerfile
+docker build -t build_cb:latest .
 ```
 
 Copy the .war to your host
